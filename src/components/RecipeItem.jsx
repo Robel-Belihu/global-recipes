@@ -95,12 +95,6 @@ const RecipeItem = ({ handleFavourites, saveItem }) => {
                     ? "- Remove this recipe from favourites"
                     : "+ Add to your favourite"}
                 </button>
-                <button className="text-black p-3 px-8 rounded-lg text-xs uppercase font-medium tracking-wider mt-2 bg-gradient-to-br from-white to-white inline-block  shadow-md  shadow-blue-200 hover:shadow-lg hover:shadow-blue-500">
-                  Get Directions
-                </button>
-                <button className="text-black p-3 px-8 rounded-lg text-xs uppercase font-medium tracking-wider mt-2 bg-gradient-to-br from-white to-white  inline-block  shadow-md  shadow-blue-200 hover:shadow-lg hover:shadow-blue-500">
-                  Home
-                </button>
               </div>
             </div>
           </div>

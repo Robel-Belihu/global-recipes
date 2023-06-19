@@ -15,7 +15,7 @@
 - Data fetching
 - Tailwind CSS
 
-# Screen Shots
+# Screenshots
 
 ![](./src/assets/global-recipe-search-results.png)
 ![](./src/assets/global-recipe-item.png)
